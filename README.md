@@ -47,7 +47,7 @@ The dashboard provides valuable business insights into total sales, transactions
 ---
 
 ### 📷 Dashboard Preview
-![Sales Data Dashboard]()
+![Sales Data Dashboard](https://github.com/sajid-hussain08/Sales_Data_Analysis_PowerBi/blob/my-new-branch/Images/Screenshot%202025-10-15%20114403.png)
 
 ---
 
@@ -73,7 +73,7 @@ This Power BI project demonstrates how interactive dashboards can simplify compl
 
 ### 👨‍💻 Developer
 **Sajid Hussain**  
-📍 B.Tech CSE | Java Full Stack & Data Analytics Enthusiast  
-📧 [Add your email here]  
+📍 B.Tech CSE |Data Analyst  
+📧 [sajidhussain8541@gmail.com]  
 🔗 [GitHub Profile](https://github.com/sajid-hussain08)
 
